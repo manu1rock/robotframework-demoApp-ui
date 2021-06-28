@@ -13,7 +13,7 @@ Documentation    Smoke Test
 
 *** Variables ***
 ${browser}  chrome
-${url}   http://192.168.43.58:8888/
+${url}   http://localhost:8888/
 #${username}
 ${password}  test@123
 ${firstname}   Michal
