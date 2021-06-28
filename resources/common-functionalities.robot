@@ -4,7 +4,7 @@ Library  String
 
 *** Variables ***
 ${browser}  chrome
-${url}   http://192.168.43.58:8888/
+${url}   http://localhost:8888/
 ${username}
 
 *** Keywords ***

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a7b5b68-306e-44f6-9fbb-4136758e0344" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tests/smoke-test.robot" beforeDir="false" afterPath="$PROJECT_DIR$/tests/smoke-test.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/common-functionalities.robot" beforeDir="false" afterPath="$PROJECT_DIR$/resources/common-functionalities.robot" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +26,7 @@
   <component name="ProjectId" id="1uUQ7dMu588FGOu1iTOBeENKLe8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
